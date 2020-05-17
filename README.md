@@ -1,6 +1,6 @@
 # TryHackMe
 
-![TryHackMe logo](https://tryhackme.com/img/THMlogo.png "TryHackMe" | width=100)
+![TryHackMe logo](https://tryhackme.com/img/THMlogo.png "TryHackMe")
 
 ## Challenges Done
 * [UltraTech](UltraTech-DONE/)
